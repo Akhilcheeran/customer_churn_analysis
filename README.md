@@ -47,19 +47,5 @@ An end-to-end business intelligence pipeline analyzing **7,043 customer accounts
 
 ---
 
-## 📂 Repository Setup & Execution
 
-1. **Clone Repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/customer-churn-analytics.git](https://github.com/YOUR_USERNAME/customer-churn-analytics.git)
-   cd customer-churn-analytics
-   ```
 
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Pipeline:**
-   * Execute Jupyter Notebook: `notebooks/01_data_cleaning_eda.ipynb`
-   * Load SQL script into PostgreSQL: `sql/churn_queries.sql`
